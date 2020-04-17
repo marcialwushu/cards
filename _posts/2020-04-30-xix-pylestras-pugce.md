@@ -1,7 +1,7 @@
 ---
 layout: post
 title: XIX Pylestras PUGCE
-img: pylestras-pugce.png
+img: pugce.png
 ---
 
 O Pylestras é um evento sem fins lucrativo que consiste em um​ dia de palestras de tecnologia no qual palestrante e os convidados e/ou selecionados por votação compartilham sua experiência com estudantes e profissionais da área. Os assuntos das palestras são variados, contudo, orbitam o ecossistema da linguagem de programação​ Python.
